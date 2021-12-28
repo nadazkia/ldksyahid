@@ -1,2 +1,2 @@
-# Resolusi
-Repository untuk menyimpan rencana nada kedepannya
+# LDK Syahid Trial
+Percobaan membuat website LDK
